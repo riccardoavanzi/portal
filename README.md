@@ -1,2 +1,2 @@
 # portal
-protal page for airlines
+portal page for airlines
